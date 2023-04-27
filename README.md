@@ -1,5 +1,6 @@
 # ChatGPT-SaaS
-完善的多用户付费前后端    
+完善的多用户 ChatGPT 付费前后端    
+
 体验地址：https://usegpt.ee
 
 ✅ 多用户注册/登录    
@@ -12,6 +13,7 @@
 ✅ 预设话术、连续对话     
 
 联系我：admin@usegpt.ee    
+
 TG：https://t.me/rdtoc
 
 ![about](https://github.com/UseGPT/ChatGPT-SaaS/blob/main/screenshot-1.png)
