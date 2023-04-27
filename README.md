@@ -14,7 +14,7 @@
 
 联系我：admin@usegpt.ee    
 
-TG：https://t.me/rdtoc
+[telegram_link]: https://t.me/rdtoc
 
 ![about](https://github.com/UseGPT/ChatGPT-SaaS/blob/main/screenshot-1.png)
 ![about](https://github.com/UseGPT/ChatGPT-SaaS/blob/main/screenshot-2.png)
